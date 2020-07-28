@@ -1,7 +1,7 @@
 # Smart-Queuing-Sytem-Intel-DevCloud
 This repo demonstrates how to build custom queuing systems for the retail, manufacturing and transportation sectors. This application uses the Intel® DevCloud for the Edge.
 
-![retail](https://github.com/tharedor/Smart-Queuing-System-Intel-DevCloud/blob/master/images/retail.jpg)
+![retail](https://github.com/tharedor/Smart-Queuing-Sytem-Intel-DevCloud/blob/master/images/retail.jpg)
 
 ## Main Tasks
 
