@@ -1,7 +1,7 @@
-Scenario 2: Retail Sector
+# Scenario 2: Retail Sector
 Below is the second scenario. Again, your job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
 
-The Scenario
+## The Scenario
 PriceRight Singapore has one of its smaller outlets in the tiny neighborhood of Dover. Mr. Lin is the store manager—and like any good store manager, he wants to use Edge AI to help maximize his profit this year.
 
 Most of the customers are regulars at the store. Mr. Lin has seen an average of about 200 people in the store during weekdays. On the weekends, this increases to between 500 and 1000. The maximum number of people visit the store during the holidays. Most customers spend 30-50 mins in the store during a single visit. Out of this, they have an average wait time of 230 seconds at the checkout counters. But on the weekends, the wait time can increase substantially. The average time spent is 40 mins at the store and 350-400 seconds at the checkout line.
