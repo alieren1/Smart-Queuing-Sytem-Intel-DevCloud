@@ -8,13 +8,14 @@ Mr. Vishwas is the VP of Engineering at Naomi Semiconductors, a manufacturer kno
 
 There are several steps involved in the chip manufacturing process:
 
-Step 1: Produce a silicon ingot
-Step 2: Create blank wafers
-Step 3: Use these wafers to reproduce a patterned wafer
-Step 4: Create and test dies
-Step 5: Assemble bond dies into packages
-Step 6: Test packaged dies
-Step 7: Ship dies to customers
+1. Produce a silicon ingot
+2. Create blank wafers
+3. Use these wafers to reproduce a patterned wafer
+4. Create and test dies
+5. Assemble bond dies into packages
+6. Test packaged dies
+7. Ship dies to customers
+
 Mr. Vishwas explains that there have been several roadblocks in this pipeline. The entire process should take around 6 to 8 weeks—but currently, it is taking 10 to 12 weeks. This is reducing their revenue by 30%.
 
 Mr. Vishwas has noticed that Step 7 (shipping to customers) seems to be taking the most time. This part of the process involves the manual labor of packaging the chips into boxes. There is one particular shop floor—which has two industrial belts—that has shown slower production than the rest.
