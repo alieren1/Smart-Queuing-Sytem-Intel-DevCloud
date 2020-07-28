@@ -1,9 +1,9 @@
-Scenario 1: Manufacturing Sector
+# Scenario 1: Manufacturing Sector
 Below is the first scenario. Your job is to read through the scenario and figure out which type of hardware might best fit the client's needs. You'll see that this is similar to scenarios you practiced with earlier in the course.
 
 The scenario is pretty long and not all of the information is important! That's intentional and not unlike what you'll encounter when working with real clients. This is an opportunity to demonstrate that you know which pieces of information are relevant when selecting hardware, and which are unimportant or unrelated.
 
-The Scenario
+## The Scenario
 Mr. Vishwas is the VP of Engineering at Naomi Semiconductors, a manufacturer known for its industrial-grade standard in producing semiconductor chips. Recently, the company has been venturing into Intel Pentium 4/3000 chip production—and they want to maximize their revenue in this venture. Their other chips in the last year have earned them two million dollars alone. With such good revenue, their expansion into the Intel Pentium 4/3000 industry is an obvious next step.
 
 There are several steps involved in the chip manufacturing process:
