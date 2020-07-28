@@ -1,7 +1,7 @@
-Scenario 3: Transportation
+# Scenario 3: Transportation
 Below is the third scenario. Again, your job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
 
-The Scenario
+## The Scenario
 Ms. Leah is the Innovation head for Delhi Metro Rail Services. Delhi Metro is an urban passenger transportation system connecting Ghaziabad, Faridabad, Gurgaon, Noida, Bahadurgarh, and Ballabhgarh in the National Capital Region of India. Delhi Metro makes 2,700 trips every day and is one of the busiest metros in India.
 
 During peak hours, some areas of the platform get highly congested, while other areas remain relatively open. In some cases, passengers trying to board in the more congested areas are unable to get on, even though there is space on the train.
